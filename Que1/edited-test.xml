@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <graph>
+    <node>
+      <name>Wipro Technologies</name>
+      <sector>IT</sector>
+    </node>
+    <node>
+      <name>Wipro hardware</name>
+      <weight>Hardware</weight>
+    </node>
+    <node>
+      <name>Wipro Instutions</name>
+      <weight>Education</weight>
+    </node>
+    <node>
+      <name>Wipro home automation</name>
+      <weight>Automation IOT</weight>
+    </node>
+  </graph>
+</root>
